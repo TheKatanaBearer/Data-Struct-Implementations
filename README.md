@@ -21,9 +21,6 @@ This repository contains **C++ implementations** of fundamental data structures.
 - 🌳 **Binary Search Tree (BST)**
   - Insertion, deletion, traversal (pre-order)
 
-- 🧵 **String**
-  - Custom string operations like reversal, concatenation, comparison
-
 - 🗺️ **Map**
   - Key-value store implemented using BST or custom logic
 
